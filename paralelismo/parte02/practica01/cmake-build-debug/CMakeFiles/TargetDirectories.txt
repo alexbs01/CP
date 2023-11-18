@@ -1,0 +1,3 @@
+/home/rego/universidad/proyectosGit/paralelismo/p1/cmake-build-debug/CMakeFiles/p1.dir
+/home/rego/universidad/proyectosGit/paralelismo/p1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rego/universidad/proyectosGit/paralelismo/p1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
